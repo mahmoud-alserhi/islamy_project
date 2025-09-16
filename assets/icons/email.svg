@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18.885" height="18.885" viewBox="0 0 18.885 18.885">
+  <g id="vuesax_linear_sms" data-name="vuesax/linear/sms" transform="translate(-556 -250)">
+    <g id="sms" transform="translate(556 250)">
+      <path id="Vector" d="M11.8,13.377H3.934C1.574,13.377,0,12.2,0,9.442V3.934C0,1.18,1.574,0,3.934,0H11.8c2.361,0,3.934,1.18,3.934,3.934V9.442C15.737,12.2,14.164,13.377,11.8,13.377Z" transform="translate(1.574 2.754)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2"/>
+      <path id="Vector-2" data-name="Vector" d="M7.869,0,5.406,1.967a2.491,2.491,0,0,1-2.951,0L0,0" transform="translate(5.508 7.082)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4"/>
+      <path id="Vector-3" data-name="Vector" d="M0,0H18.885V18.885H0Z" fill="none" opacity="0"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg id="vuesax_linear_calendar" data-name="vuesax/linear/calendar" xmlns="http://www.w3.org/2000/svg" width="20.768" height="20.768" viewBox="0 0 20.768 20.768">
+  <g id="calendar">
+    <path id="Vector" d="M0,0V3" transform="translate(6.923 2)" fill="none" stroke="#292d32" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2"/>
+    <path id="Vector-2" data-name="Vector" d="M0,0V3" transform="translate(13.846 2)" fill="none" stroke="#292d32" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2"/>
+    <path id="Vector-3" data-name="Vector" d="M0,0H13.768" transform="translate(3.5 7.866)" fill="none" stroke="#292d32" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2"/>
+    <path id="Vector-4" data-name="Vector" d="M14.768,4.127v7.015c0,2.476-1.231,4.127-4.1,4.127H4.1c-2.872,0-4.1-1.651-4.1-4.127V4.127C0,1.651,1.231,0,4.1,0h6.564C13.538,0,14.768,1.651,14.768,4.127Z" transform="translate(3 3.5)" fill="none" stroke="#292d32" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2"/>
+    <path id="Vector-5" data-name="Vector" d="M0,0H20.768V20.768H0Z" fill="none" opacity="0"/>
+    <path id="Vector-6" data-name="Vector" d="M.495.5H.5" transform="translate(13.086 11.355)" fill="none" stroke="#292d32" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2"/>
+    <path id="Vector-7" data-name="Vector" d="M.495.5H.5" transform="translate(13.086 13.951)" fill="none" stroke="#292d32" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2"/>
+    <path id="Vector-8" data-name="Vector" d="M.495.5H.5" transform="translate(9.885 11.355)" fill="none" stroke="#292d32" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2"/>
+    <path id="Vector-9" data-name="Vector" d="M.495.5H.5" transform="translate(9.885 13.951)" fill="none" stroke="#292d32" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2"/>
+    <path id="Vector-10" data-name="Vector" d="M.495.5H.5" transform="translate(6.683 11.355)" fill="none" stroke="#292d32" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2"/>
+    <path id="Vector-11" data-name="Vector" d="M.495.5H.5" transform="translate(6.683 13.951)" fill="none" stroke="#292d32" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2"/>
+  </g>
+</svg>

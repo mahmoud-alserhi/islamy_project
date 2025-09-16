@@ -1,0 +1,8 @@
+<svg id="vuesax_linear_repeate-one" data-name="vuesax/linear/repeate-one" xmlns="http://www.w3.org/2000/svg" width="18.216" height="18.216" viewBox="0 0 18.216 18.216">
+  <g id="repeate-one">
+    <path id="Vector" d="M9.116,0l1.852,1.776L4.933,1.761A4.943,4.943,0,0,0,1.45,10.2" transform="translate(1.51 2.277)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Vector-2" data-name="Vector" d="M1.852,10.2,0,8.425l6.034.015A4.943,4.943,0,0,0,9.518,0" transform="translate(5.738 5.738)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Vector-3" data-name="Vector" d="M1.138,4.053V0L0,1.268" transform="translate(8.159 7.081)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Vector-4" data-name="Vector" d="M0,0H18.216V18.216H0Z" fill="none" opacity="0"/>
+  </g>
+</svg>

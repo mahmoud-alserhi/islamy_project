@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="35" height="35" viewBox="0 0 35 35">
+  <defs>
+    <clipPath id="clip-path">
+      <circle id="Ellipse_91" data-name="Ellipse 91" cx="17.5" cy="17.5" r="17.5" transform="translate(0 0.12)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_10" data-name="Mask Group 10" transform="translate(0 -0.12)" clip-path="url(#clip-path)">
+    <g id="Group_7594" data-name="Group 7594" transform="translate(0 0.12)">
+      <g id="Group_7593" data-name="Group 7593">
+        <path id="Path_5350" data-name="Path 5350" d="M49.5,32A17.5,17.5,0,1,1,32,49.5,17.5,17.5,0,0,1,49.5,32Z" transform="translate(-32 -32)" fill="#fbfbfb" fill-rule="evenodd"/>
+        <path id="Path_5351" data-name="Path 5351" d="M76.965,43.875H43.813a17.507,17.507,0,0,1,33.153,0Z" transform="translate(-42.89 -32)" fill="#32ab45" fill-rule="evenodd"/>
+        <path id="Path_5352" data-name="Path 5352" d="M76.965,328a17.507,17.507,0,0,1-33.153,0Z" transform="translate(-42.89 -304.875)" fill="#1d1d1d" fill-rule="evenodd"/>
+        <path id="Path_5353" data-name="Path 5353" d="M41.375,57.555V88.562a17.507,17.507,0,0,1,0-31.007Z" transform="translate(-32 -55.558)" fill="#e92b2b" fill-rule="evenodd"/>
+      </g>
+    </g>
+  </g>
+</svg>
